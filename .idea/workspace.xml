@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1d957b7-5852-4b60-9c65-c60fbc89eec3" name="Default Changelist" comment="" />
+    <list default="true" id="a1d957b7-5852-4b60-9c65-c60fbc89eec3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/lib/hamcrest-core-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/lib/junit-4.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/lib/hamcrest-core-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/lib/junit-4.11.jar" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +37,7 @@
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Temperature.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
               <folding>
                 <element signature="e#108#109#0" expanded="true" />
                 <element signature="e#133#134#0" expanded="true" />
@@ -48,8 +63,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+            <state relative-caret-position="90">
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
               <folding>
                 <element signature="e#118#119#0" expanded="true" />
                 <element signature="e#142#143#0" expanded="true" />
@@ -72,11 +87,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="73" selection-start-line="17" selection-start-column="73" selection-end-line="17" selection-end-column="73" />
+            <state relative-caret-position="90">
+              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
               <folding>
                 <element signature="e#111#112#0" expanded="true" />
                 <element signature="e#135#136#0" expanded="true" />
@@ -87,11 +102,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="53" column="33" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
+            <state relative-caret-position="354">
+              <caret line="41" column="49" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,6 +123,9 @@
         <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/edu/ucsd/cs110" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -127,6 +145,7 @@
     <option name="width" value="1400" />
     <option name="height" value="793" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -155,13 +174,6 @@
               <item name="Project110" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="cs110" type="462c0819:PsiDirectoryNode" />
-              <item name="temperature" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project110" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project110" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cs110" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -177,6 +189,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -266,23 +279,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555624316087</updated>
-      <workItem from="1555624321377" duration="3246000" />
+      <workItem from="1555624321377" duration="4015000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="edu_ucsd_cs110_tests_in_Project110 - 2019.04.18 at 19h 39m 54s.xml">
-      <configuration name="edu.ucsd.cs110.tests in Project110" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="edu_ucsd_cs110_tests_in_Project110 - 2019.04.18 at 19h 39m 58s.xml">
-      <configuration name="edu.ucsd.cs110.tests in Project110" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="edu_ucsd_cs110_tests_in_Project110 - 2019.04.18 at 19h 40m 42s.xml">
-      <configuration name="edu.ucsd.cs110.tests in Project110" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="edu_ucsd_cs110_tests_in_Project110 - 2019.04.18 at 19h 40m 46s.xml">
-      <configuration name="edu.ucsd.cs110.tests in Project110" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="edu_ucsd_cs110_tests_in_Project110 - 2019.04.18 at 19h 43m 40s.xml">
       <configuration name="edu.ucsd.cs110.tests in Project110" configurationId="JUnit" />
     </history-entry>
@@ -301,9 +302,21 @@
     <history-entry file="edu_ucsd_cs110_tests_in_Project110 - 2019.04.18 at 19h 44m 40s.xml">
       <configuration name="edu.ucsd.cs110.tests in Project110" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="edu_ucsd_cs110_tests_in_Project110 - 2019.04.18 at 19h 45m 40s.xml">
+      <configuration name="edu.ucsd.cs110.tests in Project110" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="edu_ucsd_cs110_tests_in_Project110 - 2019.04.18 at 19h 45m 42s.xml">
+      <configuration name="edu.ucsd.cs110.tests in Project110" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="edu_ucsd_cs110_tests_in_Project110 - 2019.04.18 at 19h 47m 31s.xml">
+      <configuration name="edu.ucsd.cs110.tests in Project110" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="edu_ucsd_cs110_tests_in_Project110 - 2019.04.18 at 19h 47m 35s.xml">
+      <configuration name="edu.ucsd.cs110.tests in Project110" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3246000" />
+    <option name="totallyTimeSpent" value="4015000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="23" width="1400" height="793" extended-state="0" />
@@ -324,7 +337,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2681883" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2681883" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.32952926" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -374,10 +387,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Temperature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        <state relative-caret-position="90">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
           <folding>
             <element signature="e#118#119#0" expanded="true" />
             <element signature="e#142#143#0" expanded="true" />
@@ -387,15 +413,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Temperature.java">
+    <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        <state relative-caret-position="90">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
           <folding>
-            <element signature="e#108#109#0" expanded="true" />
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -412,23 +438,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="53" column="33" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
+        <state relative-caret-position="354">
+          <caret line="41" column="49" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="73" selection-start-line="17" selection-start-column="73" selection-end-line="17" selection-end-column="73" />
-          <folding>
-            <element signature="e#111#112#0" expanded="true" />
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
           </folding>
         </state>
       </provider>
